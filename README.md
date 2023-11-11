@@ -1,0 +1,2 @@
+# ajedrez_python
+nose
